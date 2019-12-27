@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {    
-    float sum=0, n=6;
-    while(n<=19){
+    float sum=0, n=2;
+    while(n<=69){
         sum+=1/n;
         n+=1;
     }
